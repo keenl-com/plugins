@@ -2,7 +2,7 @@
     const assets = [
         {
             type: 'text',
-            content: 'Built by KEENL.com - Free AI website builder',
+            content: 'Built with KEENL.com - Free AI website builder',
             link: 'https://keenl.com',
             bg: '#000000',
             color: '#ffffff'
@@ -82,3 +82,4 @@
     }
 
 })();
+
